@@ -1,0 +1,2 @@
+## Juego del Amigo secreto (Alura Challenge)
+Bienvenidos a mi juego de Amigo Secreto, en este proyecto, he usado JavaScript para crear un juego donde los usuarios pueden agregar nombres a una lista, verlos en pantalla y sortear un amigo secreto al azar. Aplique los conceptos básicos de JavaScript como arrays, manipulación de elementos en la página y generación de números aleatorios que aprendi en Alura. Espero que lo disfruten y vean cómo funcionan estos conceptos en un juego.
